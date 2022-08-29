@@ -1,0 +1,2 @@
+[09-Jul-2021 11:26:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wisegene/hrmis.wisegeneration.co.ke/leaveSchedule/includes/phpcdatabase.class.php on line 42
+[09-Jul-2021 11:27:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wisegene/hrmis.wisegeneration.co.ke/leaveSchedule/includes/phpcdatabase.class.php on line 42
